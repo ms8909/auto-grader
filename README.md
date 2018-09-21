@@ -2,7 +2,8 @@
 
 Auto-grader for NYU
 
-> Tech Stack:
+Tech Stack:
+
 > -Backend: Django
 > -Frontend: Vuejs ? :
 > -Text editor: simditor
