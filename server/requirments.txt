@@ -24,7 +24,6 @@ lockfile==0.12.2 # For local storage
 https://github.com/apache/libcloud/archive/9039968249cba20a546e5d1eb54ad2efbfa79f43.zip
 
 # OAuth
-
 oauthlib==2.0.2
 Flask-OAuthlib==0.9.4
 
