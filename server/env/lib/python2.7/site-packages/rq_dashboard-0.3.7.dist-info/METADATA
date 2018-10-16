@@ -1,0 +1,39 @@
+Metadata-Version: 2.0
+Name: rq-dashboard
+Version: 0.3.7
+Summary: rq-dashboard is a general purpose, lightweight, web interface to monitor your RQ queues, jobs, and workers in realtime.
+Home-page: https://github.com/nvie/rq-dashboard
+Author: Vincent Driessen
+Author-email: vincent@3rdcloud.com
+License: BSD
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Internet
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: System :: Distributed Computing
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: System :: Monitoring
+Requires-Dist: rq (>=0.3.8)
+Requires-Dist: Flask
+Requires-Dist: redis
+Requires-Dist: arrow
+
+UNKNOWN
+
+

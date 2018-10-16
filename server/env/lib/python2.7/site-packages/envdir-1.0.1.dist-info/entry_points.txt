@@ -1,0 +1,4 @@
+[console_scripts]
+envdir = envdir:run
+envshell = envdir:shell
+
